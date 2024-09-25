@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: u3wv22ptx-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/u3wv22ptx-go
